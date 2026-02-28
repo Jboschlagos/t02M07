@@ -170,7 +170,9 @@ const { rows } = await pool.query(
 );
 ```
 
----
+## Evidencia de pruebas
+
+## Los pantallazos de todas las pruebas realizadas se encuentran en la carpeta [`/pantallazos`](./pantallazos/).
 
 ## Autor
 
